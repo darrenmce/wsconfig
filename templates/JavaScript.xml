@@ -5,7 +5,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rq" value="require('$END$');" description="require" toReformat="false" toShortenFQNames="true">
+  <template name="rq" value="require('$VAR1$');&#10;$END$" description="require" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
