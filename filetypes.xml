@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tt" type="Bash" />
+      <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ttvars" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
