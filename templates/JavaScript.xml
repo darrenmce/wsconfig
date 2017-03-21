@@ -1,15 +1,15 @@
 <templateSet group="JavaScript">
   <template name="log" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="rq" value="require('$VAR1$');&#10;$END$" description="require" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
