@@ -1,0 +1,10 @@
+<application>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$USER_HOME$/.gvm/pkgsets/go1.8/global" />
+        <option value="file://$USER_HOME$/.gvm/pkgsets/go1.8/default" />
+      </list>
+    </option>
+  </component>
+</application>
