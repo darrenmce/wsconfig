@@ -4,27 +4,28 @@
       <mapping pattern="user_data.tpl" type="Bash" />
       <mapping pattern="tt" type="Bash" />
       <mapping pattern=".leons-poc-storerc" type="JSON" />
-      <mapping pattern=".mustardrc" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".nycrc" type="JSON" />
-      <mapping pattern=".lpsrc" type="JSON" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".jscirc" type="JSON" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
-      <mapping pattern="docker-postgres-restore" type="PLAIN_TEXT" />
+      <mapping pattern=".mustardrc" type="JSON" />
+      <mapping pattern=".lpsrc" type="JSON" />
       <mapping pattern="ttvars" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern=".env.cast5" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
+      <mapping pattern="docker-postgres-restore" type="PLAIN_TEXT" />
       <mapping pattern="local_argsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.cast5" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="xyz" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="xyz" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="*.tf.ignored" type="Terraform" />
       <mapping ext="sls" type="YAML" />
     </extensionMap>
