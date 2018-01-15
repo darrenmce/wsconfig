@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="tt" type="Bash" />
+      <mapping pattern="user_data.tpl" type="Bash" />
       <mapping pattern=".lpsrc" type="JSON" />
       <mapping pattern=".leons-poc-storerc" type="JSON" />
       <mapping pattern=".prettierrc" type="JSON" />
@@ -22,13 +24,10 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="xyz" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="rangle" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="*.tf.ignored" type="Terraform" />
       <mapping ext="sls" type="YAML" />
-      <mapping pattern="tt" type="Bash" />
-      <mapping pattern="user_data.tpl" type="Bash" />
     </extensionMap>
   </component>
 </application>
