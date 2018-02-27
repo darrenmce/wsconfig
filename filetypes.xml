@@ -26,6 +26,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="xyz" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rangle" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
