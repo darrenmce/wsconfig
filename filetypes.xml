@@ -11,6 +11,7 @@
       <mapping pattern=".jscirc" type="JSON" />
       <mapping pattern=".arriverc" type="JSON" />
       <mapping pattern=".mustardrc" type="JSON" />
+      <mapping pattern=".automprc" type="JSON" />
       <mapping pattern="*.tfvars.rangle" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.local" type="PLAIN_TEXT" />
