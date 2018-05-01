@@ -5,6 +5,7 @@
       <mapping pattern="tt" type="Bash" />
       <mapping pattern="user_data.tpl" type="Bash" />
       <mapping ext="bats" type="Bash" />
+      <mapping pattern="*.graphql.ts" type="GraphQL Schema" />
       <mapping pattern=".automprc" type="JSON" />
       <mapping pattern=".lpsrc" type="JSON" />
       <mapping pattern=".digsrc" type="JSON" />
