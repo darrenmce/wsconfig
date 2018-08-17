@@ -12,4 +12,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="CustomError" value="export class $ERROR_NAME$Error extends Error {&#10;  constructor() {&#10;    super('$MESSAGE$');&#10;    Object.setPrototypeOf(this, new.target.prototype);&#10;  }&#10;}" description="Custom error template" toReformat="false" toShortenFQNames="true">
+    <variable name="ERROR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
