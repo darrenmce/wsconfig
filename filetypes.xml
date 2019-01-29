@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env" type="Bash" />
       <mapping ext="bats" type="Bash" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
