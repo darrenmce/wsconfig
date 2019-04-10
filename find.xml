@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.controller.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,7 +14,7 @@
     <mask>*.js</mask>
     <mask>*.router.js</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.controller.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
