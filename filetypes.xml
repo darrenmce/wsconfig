@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".*rc" type="JSON" />
       <mapping pattern=".env.new" type="PLAIN_TEXT" />
+      <mapping pattern="aws_credentials" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".authenv" type="PLAIN_TEXT" />
